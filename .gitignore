@@ -1,0 +1,10 @@
+db.sqlite3
+.idea
+__pycache__/
+*.log
+.vscode
+reports/
+static/
+.env
+.ropeproject
+.venv
